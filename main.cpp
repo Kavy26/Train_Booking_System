@@ -5,7 +5,7 @@
 #include <ctime>
 
 #define SEATS 4
-#define ADMIN_PASS "ARIITK"
+#define ADMIN_PASS "Kavy07"
 
 using namespace std;
 
